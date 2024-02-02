@@ -1,0 +1,14 @@
+C:\Users\prana\Desktop\Demo-Employee-Wage\bin\Debug\net8.0\Demo-Employee-Wage.exe
+C:\Users\prana\Desktop\Demo-Employee-Wage\bin\Debug\net8.0\Demo-Employee-Wage.deps.json
+C:\Users\prana\Desktop\Demo-Employee-Wage\bin\Debug\net8.0\Demo-Employee-Wage.runtimeconfig.json
+C:\Users\prana\Desktop\Demo-Employee-Wage\bin\Debug\net8.0\Demo-Employee-Wage.dll
+C:\Users\prana\Desktop\Demo-Employee-Wage\bin\Debug\net8.0\Demo-Employee-Wage.pdb
+C:\Users\prana\Desktop\Demo-Employee-Wage\obj\Debug\net8.0\Demo-Employee-Wage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prana\Desktop\Demo-Employee-Wage\obj\Debug\net8.0\Demo-Employee-Wage.AssemblyInfoInputs.cache
+C:\Users\prana\Desktop\Demo-Employee-Wage\obj\Debug\net8.0\Demo-Employee-Wage.AssemblyInfo.cs
+C:\Users\prana\Desktop\Demo-Employee-Wage\obj\Debug\net8.0\Demo-Employee-Wage.csproj.CoreCompileInputs.cache
+C:\Users\prana\Desktop\Demo-Employee-Wage\obj\Debug\net8.0\Demo-Employee-Wage.dll
+C:\Users\prana\Desktop\Demo-Employee-Wage\obj\Debug\net8.0\refint\Demo-Employee-Wage.dll
+C:\Users\prana\Desktop\Demo-Employee-Wage\obj\Debug\net8.0\Demo-Employee-Wage.pdb
+C:\Users\prana\Desktop\Demo-Employee-Wage\obj\Debug\net8.0\Demo-Employee-Wage.genruntimeconfig.cache
+C:\Users\prana\Desktop\Demo-Employee-Wage\obj\Debug\net8.0\ref\Demo-Employee-Wage.dll
